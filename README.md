@@ -2,8 +2,6 @@
 
 Una aplicación moderna y completa de gestión de tareas construida con **Nuxt 4**, **Vue 4**, **Pinia** y **TailwindCSS**.
 
-![Todo App Preview](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Todo+App+Preview)
-
 ## ✨ Características
 
 ### 🔹 Funcionalidades Principales
@@ -18,7 +16,7 @@ Una aplicación moderna y completa de gestión de tareas construida con **Nuxt 4
 ### 🔹 Tecnologías y Librerías
 
 - ⚡ **Nuxt 4** - Framework full-stack para Vue.js
-- 🖖 **Vue 3** - Framework progresivo de JavaScript
+- 🖖 **Vue** - Framework progresivo de JavaScript
 - 🍍 **Pinia** - Gestión de estado moderna y intuitiva
 - 🎨 **TailwindCSS** - Framework CSS utility-first
 - 🎯 **HeadlessUI** - Componentes accesibles sin estilos
@@ -234,7 +232,7 @@ Este proyecto está bajo la licencia MIT. Ver `LICENSE` para más información.
 
 ## 👨‍💻 Autor
 
-Creado con ❤️ por [Tu Nombre](https://github.com/tu-usuario)
+Creado con ❤️ por Francis Castillo(https://github.com/ingfranciscastillo)
 
 ---
 
@@ -244,12 +242,12 @@ Creado con ❤️ por [Tu Nombre](https://github.com/tu-usuario)
 
 ### Modo Claro
 
-![Modo Claro](https://via.placeholder.com/600x400/F3F4F6/1F2937?text=Modo+Claro)
+![Modo Claro](/cap2.png)
 
 ### Modo Oscuro
 
-![Modo Oscuro](https://via.placeholder.com/600x400/1F2937/F9FAFB?text=Modo+Oscuro)
+![Modo Oscuro](/cap1.png)
 
 ### Responsive
 
-![Vista Mobile](https://via.placeholder.com/300x600/3B82F6/FFFFFF?text=Vista+Mobile)
+![Vista Mobile](/responsive.png)
