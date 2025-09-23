@@ -28,6 +28,9 @@ useHead({
       name: 'description',
       content: 'Organiza y gestiona tus tareas diarias de forma eficiente con nuestra aplicación todo construida con Nuxt 4, Vue 3 y TailwindCSS.'
     }
+  ], 
+  link: [
+    {rel: "icon", type: "image/svg+xml", href: "/favicon.svg"}
   ]
 })
 
